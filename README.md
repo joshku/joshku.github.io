@@ -13,15 +13,6 @@ You can use the image that is hosted in [Docker Hub](https://hub.docker.com/r/br
 1. Make sure the `docker-compose.yml` file is in this repo
 1. Run `docker-compose -d up`
 
-
-4. For each post in the `_posts` directory, update the front matter. Example:
-
-
-
-    For reference, look at the [demo repository](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll) to see how the files are set up.
-
-
-
 ### Non-Docker
 
 Make sure you have ruby installed then run `bundle exec jekyll serve`
