@@ -3,3 +3,4 @@ Gemfile.lock
 *.gem
 .jekyll-cache
 docker-compose.yml
+node_modules
