@@ -1,0 +1,28 @@
+title:              Joshua Ku's Blog
+email:              josh@joshuaku.com
+description:        A place for all my random thoughts
+author:             Joshua Ku
+baseurl:            ""
+url:                "https://www.joshuaku.com"
+
+# Social Profiles
+twitter_username:   
+github_username:    joshku
+facebook_username:  
+instagram_username:  
+linkedin_username:  josh-ku
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+# Formspree Settings
+form_id:        f/xknyqbnz
